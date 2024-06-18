@@ -1,0 +1,100 @@
+body {
+    color: rgb(124, 160, 221);
+    background-color: aliceblue;
+    font-family:'Arial';
+    padding:10px;
+  
+    margin: 2px;
+  
+  }
+  h3 {
+      color:chartreuse
+  }
+  
+  
+  h1 {
+      font-size: 72px;
+      font-weight:lighter;
+      text-align: center;
+  }
+  
+  h2 {
+  
+      font-size:30px;
+      font-weight:lighter;
+  
+  }
+  h1, h2, h3, h4, h5, h6 {
+      font-family:'Helvetica Neue';
+      color:rgb(151, 154, 255);
+      font-weight: bold;
+      border-radius: 10px;
+      margin: 20px;
+      padding:10px
+  }
+  
+
+  
+  .whitebackgroundbox {
+      background-color: white;
+      font-size: large;
+  }
+  
+  .backgroundimagemac{
+      background-image:url("../Images/VisionPro.jpg");
+      background-repeat:repeat-x;
+      background-size:200px;
+      background-size: contain;
+  }
+  
+  .container {
+      position:relative;
+      padding:2px;
+  }
+  
+  
+  .header {
+  background-color:aliceblue;
+  ;
+  }
+  
+  .leftmenu {
+      background-color: aliceblue;
+      float:left;
+      width:25%;
+      padding:3%;
+  
+  }
+  
+  .mainbody {
+      background-color:aliceblue;
+      float:left;
+      width:35%;
+      padding:3%
+  
+      
+  }
+  
+  .rightmenu {
+      background-color: aliceblue;
+      float:right;
+      width:25%;
+  
+  }
+  
+  .footer {
+      background-color: aliceblue;
+      margin-top:95%;
+      margin-bottom:0px;
+  
+  }
+  
+  .toplink {
+    float:left;
+    width:40%;
+
+  }
+  
+  .italics {
+    text-decoration:underline;
+  }
